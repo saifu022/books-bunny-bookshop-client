@@ -1,0 +1,33 @@
+.checkout{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.checkout-heading{
+    width: 80%;
+    text-align: left;
+    padding: 40px 20px;
+
+}
+.checkout-img{
+    max-width: 80px;
+    margin-bottom: 10px;
+}
+.checkout-footer{
+    width: 80%;
+    text-align: end;
+    padding: 40px 20px;
+}
+.checkout-content{
+    width: 80%;
+    border: 1px solid rgba(128, 128, 128, 0.357);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.179);
+}
+thead th {
+    color: gray;
+}
+tbody th {
+    font-weight: 500;
+}

@@ -1,0 +1,12 @@
+.purchase-card{
+    width: 20rem;
+}
+.purchase-card img{
+    max-width: 10rem;
+    max-height: 13rem;
+    margin-bottom: 10px;
+}
+.card-header{
+    font-size: 17px;
+}
+

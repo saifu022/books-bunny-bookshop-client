@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    place-content: center;
+}.logIn{
+    margin-top: 50px;
+    min-height: 50vh;
+    max-width: 600px ;
+    display: grid;
+    place-content: center;
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 70px;
+}

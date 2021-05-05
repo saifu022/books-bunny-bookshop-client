@@ -1,0 +1,10 @@
+.products-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.search-bar{
+    display: none;
+    max-width: 50%;
+}
